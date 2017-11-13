@@ -1,2 +1,2 @@
 currentUser = "Nash Gore";
-const welcomeMessage = 'Welcome to Flatbook, ';
+const welcomeMessage = 'Welcome to Flatbook, ' + currentUser;
